@@ -4,6 +4,6 @@ jdk:
 notifications:
   email:
     recipients:
-      - lhs348459076@
+      - lhs348459076@gmail.com
     on_success: always # default: change
     on_failure: always # default: always
